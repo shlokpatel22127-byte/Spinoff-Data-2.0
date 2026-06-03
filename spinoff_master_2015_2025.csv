@@ -1,0 +1,266 @@
+Date,Parent,New Stock,Parent Company,New Company,Spinoff_Year
+"Dec 1, 2015",GAMI,ACGP,Gamco Investors Inc Et Al,Associated Capital Group Inc,2015
+"Nov 30, 2015",CSC,CSRA,Computer Sciences Corp,Csra Inc,2015
+"Nov 19, 2015",MTCH,MTCH2,Match Group Inc,Match Group Inc,2015
+"Nov 10, 2015",DRI,FCPT,Darden Restaurants Inc,Four Corners Property Trust Inc,2015
+"Nov 4, 2015",AROC,EXTN,Archrock Inc,Exterran Corp,2015
+"Nov 2, 2015",NRF,NRE,Northstar Realty Finance Corp,Northstar Realty Europe Corp,2015
+"Nov 2, 2015",HPQ,HPE,Hp Inc,Hewlett Packard Enterprise Co.,2015
+"Oct 1, 2015",MSGN,MSGS,Msg Networks Inc,Madison Square Garden Sports Corp,2015
+"Oct 1, 2015",CSWC,CSW,Capital Southwest Corp,Csw Industrials Inc,2015
+"Oct 1, 2015",BX,PJT,Blackstone Inc,Pjt Partners Inc,2015
+"Sep 29, 2015",FNFV,JAX,Fidelity National Financial Inc,J Alexander's Holdings Inc,2015
+"Sep 28, 2015",SPXC,FLOW2,Spx Technologies Inc,Spx Flow Inc,2015
+"Aug 18, 2015",VTR,CCP,Ventas Inc,Care Capital Properties Inc,2015
+"Aug 4, 2015",VIAV,LITE,Viavi Solutions Inc,Lumentum Holdings Inc,2015
+"Aug 3, 2015",BKS,BNED,Barnes & Noble Inc,Barnes & Noble Education Inc,2015
+"Jul 20, 2015",EBAY,PYPL,Ebay Inc,Paypal Holdings Inc,2015
+"Jul 2, 2015",NI,CPGX,Nisource Inc,Columbia Pipeline Group Inc,2015
+"Jul 2, 2015",IART,SPNE,Integra Lifesciences Holdings Corp,Seaspine Holdings Corp,2015
+"Jul 1, 2015",TRS,HZN,Trimas Corp,Horizon Global Corp,2015
+"Jul 1, 2015",MAS,BLD,Masco Corp,Topbuild Corp,2015
+"Jul 1, 2015",GHC,CABO,Graham Holdings Co.,Cable One Inc,2015
+"Jul 1, 2015",EPC,ENR,Edgewell Personal Care Co.,Energizer Holdings Inc,2015
+"Jul 1, 2015",DD1,CC,Dupont E I De Nemours & Co.,Chemours Co.,2015
+"Jul 1, 2015",BWXT,BW,Bwx Technologies Inc,Babcock & Wilcox Enterprises Inc,2015
+"Jul 1, 2015",BAX,BXLT,Baxter International Inc,Baxalta Inc,2015
+"Jun 29, 2015",TGNA,TDAY,Tegna Inc,Usa Today Co Inc,2015
+"Jun 9, 2015",PGEN,TCRT,Precigen Inc,Alaunos Therapeutics Inc,2015
+"Jun 2, 2015",CIGI,FSV,Colliers International Group Inc,Firstservice Corp,2015
+"Apr 27, 2015",WINMQ,UNIT,Windstream Holdings Inc,Uniti Group Inc,2015
+"Apr 20, 2015",PZG1,PZG,Paramount Gold & Silver Corp,Paramount Gold Nevada Corp,2015
+"Apr 1, 2015",SSP,JMG1,Ew Scripps Co.,Journal Media Group Inc,2015
+"Apr 1, 2015",NXDT,NXRT,Nexpoint Diversified Real Estate Trust,Nexpoint Residential Trust Inc,2015
+"Feb 26, 2015",ATLS1,ATLS,Atlas Energy Lp,Atlas Energy Group LLC,2015
+"Feb 10, 2015",OA,VSTO,Orbital Atk Inc,Vista Outdoor Inc,2015
+"Feb 4, 2015",IVT,XHR,Inventrust Properties Corp,Xenia Hotels & Resorts Inc,2015
+"Feb 2, 2015",FRPH,PATI,Frp Holdings Inc,Patriot Transportation Holding Inc,2015
+"Jan 16, 2015",VNO,UE,Vornado Realty Trust,Urban Edge Properties,2015
+"Dec 1, 2016",OSG1,INSW,Overseas Shipholding Group Inc,International Seaways Inc,2016
+"Nov 10, 2016",CAG,LW,Conagra Brands Inc,Lamb Weston Holdings Inc,2016
+"Nov 1, 2016",YUM,YUMC,Yum Brands Inc,Yum China Holdings Inc,2016
+"Nov 1, 2016",HWM,AA,Howmet Aerospace Inc,Alcoa Corp,2016
+"Nov 1, 2016",DOC,QCP,Healthpeak Properties Inc,Quality Care Properties Inc,2016
+"Oct 31, 2016",JCI,ADNT,Johnson Controls International PLC,Adient PLC,2016
+"Oct 7, 2016",CUZ,PKY,Cousins Properties Inc,Parkway Inc,2016
+"Oct 3, 2016",RRD,LKSDQ,Rr Donnelley & Sons Co.,Lsc Communications Inc,2016
+"Oct 3, 2016",RRD,DFIN,Rr Donnelley & Sons Co.,Donnelley Financial Solutions Inc,2016
+"Oct 3, 2016",HON,ASIX,Honeywell International Inc,Advansix Inc,2016
+"Oct 3, 2016",APD,VSM,Air Products & Chemicals Inc,Versum Materials Inc,2016
+"Aug 1, 2016",EBS,APVO,Emergent Biosolutions Inc,Aptevo Therapeutics Inc,2016
+"Jul 25, 2016",LVNTB,CHUBK,Qvc Group Inc,Commercehub Inc,2016
+"Jul 25, 2016",LVNTB,CHUBB,Qvc Group Inc,Commercehub Inc,2016
+"Jul 25, 2016",LVNTA,CHUBK,Qvc Group Inc,Commercehub Inc,2016
+"Jul 25, 2016",LVNTA,CHUBA,Qvc Group Inc,Commercehub Inc,2016
+"Jul 5, 2016",DHR,FTV,Danaher Corp,Fortive Corp,2016
+"Jul 1, 2016",HTZGQ,HRI,Hertz Global Holdings Inc,Herc Holdings Inc,2016
+"Jun 20, 2016",BN,BBU,Brookfield Corp,Brookfield Business Corp,2016
+"Jun 2, 2016",IDT,ZDGE,Idt Corp,Zedge Inc,2016
+"May 16, 2016",WRK,NGVT,Westrock Co.,Ingevity Corp,2016
+"May 13, 2016",HOT,ILG,Starwood Hotel & Resorts Worldwide Inc,Ilg Inc,2016
+"May 2, 2016",CYH,QHCCQ,Community Health Systems Inc,Quorum Health Corp,2016
+"Apr 4, 2016",AWI,AFIIQ,Armstrong World Industries Inc,Armstrong Flooring Inc,2016
+"Mar 14, 2016",ITGR,NVTRQ,Integer Holdings Corp,Nuvectra Corp,2016
+"Mar 4, 2016",MTW,WBT,Manitowoc Co Inc,Welbilt Inc,2016
+"Feb 4, 2016",GRA,GCP,W R Grace & Co.,Gcp Applied Technologies Inc,2016
+"Jan 4, 2016",STLA,RACE,Stellantis Nv,Ferrari Nv,2016
+"Jan 4, 2016",LCTX,IMDX,Lineage Cell Therapeutics Inc,Insight Molecular Diagnostics Inc,2016
+"Dec 6, 2017",LEN,LEN.B,Lennar Corp,Lennar Corp,2017
+"Dec 5, 2017",APTV,DLPH,Aptiv PLC,Delphi Technologies PLC,2017
+"Nov 29, 2017",CNX,CNR,Cnx Resources Corp,Core Natural Resources Inc,2017
+"Nov 17, 2017",PSKY,AUDAQ,Paramount Skydance Corp,Audacy Inc,2017
+"Oct 2, 2017",NC,HBB,Nacco Industries Inc,Hamilton Beach Brands Holding Co.,2017
+"Oct 2, 2017",FNF,BKI,Fidelity National Financial Inc,Black Knight Inc,2017
+"Sep 1, 2017",HPE,MFGP,Hewlett Packard Enterprise Co.,Micro Focus International PLC,2017
+"Aug 7, 2017",MET,BHF,Metlife Inc,Brighthouse Financial Inc,2017
+"Jul 18, 2017",VNO,JBGS,Vornado Realty Trust,Jbg Smith Properties,2017
+"Jul 5, 2017",GE,BKR,Ge Aerospace,Baker Hughes Co.,2017
+"Jun 19, 2017",YHOO,AABA,Yahoo Inc,Altaba Inc,2017
+"Jun 2, 2017",CKH,SMHI,Seacor Holdings Inc,Seacor Marine Holdings Inc,2017
+"Jun 1, 2017",TGNA,CARS,Tegna Inc,Carscom Inc,2017
+"May 15, 2017",ASH,VVV,Ashland Inc,Valvoline Inc,2017
+"Apr 3, 2017",HPE,DXC,Hewlett Packard Enterprise Co.,Dxc Technology Co.,2017
+"Feb 2, 2017",BIIB,BIVV,Biogen Inc,Bioverativ Inc,2017
+"Feb 1, 2017",CTXS,LOGM,Citrix Systems Inc,Logmein Inc,2017
+"Jan 30, 2017",VAR,VREX,Varian Medical Systems Inc,Varex Imaging Corp,2017
+"Jan 19, 2017",PGEN,AQB,Precigen Inc,Aquabounty Technologies Inc,2017
+"Jan 4, 2017",HLT,PK,Hilton Worldwide Holdings Inc,Park Hotels & Resorts Inc,2017
+"Jan 4, 2017",HLT,HGV,Hilton Worldwide Holdings Inc,Hilton Grand Vacations Inc,2017
+"Jan 3, 2017",XRX,CNDT,Xerox Holdings Corp,Conduent Inc,2017
+"Dec 28, 2018",SIR,ILPT,Select Income Reit,Industrial Logistics Properties Trust,2018
+"Dec 3, 2018",BGC,NMRK,Bgc Group Inc,Newmark Group Inc,2018
+"Nov 29, 2018",LCTX,SER,Lineage Cell Therapeutics Inc,Serina Therapeutics Inc,2018
+"Nov 13, 2018",EQT,ETRN,Eqt Corp,Equitrans Midstream Corp,2018
+"Nov 1, 2018",TRN,ACA,Trinity Industries Inc,Arcosa Inc,2018
+"Oct 29, 2018",HON,REZI,Honeywell International Inc,Resideo Technologies Inc,2018
+"Oct 1, 2018",TMX,FTDR,Terminix Global Holdings Inc,Frontdoor Inc,2018
+"Oct 1, 2018",HON,GTX,Honeywell International Inc,Garrett Motion Inc,2018
+"Sep 17, 2018",KLXI,KLXE,Klx Inc,Klx Energy Services Holdings Inc,2018
+"Aug 29, 2018",MSFJY,AMTB,Mercantil Servicios Financieros Ca,Amerant Bancorp Inc,2018
+"Jul 2, 2018",SITC,RVIC,Site Centers Corp,Retail Value Inc,2018
+"Jul 2, 2018",ALV,VNE,Autoliv Inc,Veoneer Inc,2018
+"Jun 1, 2018",TNL,WH,Travel & Leisure Co.,Wyndham Hotels & Resorts Inc,2018
+"Jun 1, 2018",SRC,SMTA,Spirit Realty Capital Inc,Spirit Mta Reit,2018
+"Jun 1, 2018",DXC,PRSP,Dxc Technology Co.,Perspecta Inc,2018
+"May 31, 2018",LQ,CPLG,La Quinta Holdings Inc,Corepoint Lodging Inc,2018
+"May 31, 2018",ESEA,EDRY,Euroseas Ltd.,Eurodry Ltd.,2018
+"May 9, 2018",DOV,CHX,Dover Corp,Championx Corp,2018
+"May 1, 2018",PNR,NVT,Pentair PLC,Nvent Electric PLC,2018
+"Mar 27, 2018",IDT,RFL,Idt Corp,Rafael Holdings Inc,2018
+"Mar 27, 2018",FLNT,RDVT,Fluent Inc,Red Violet Inc,2018
+"Feb 1, 2018",DBRG,BRSP,Digitalbridge Group Inc,Brightspire Capital Inc,2018
+"Jan 2, 2018",LBTYA,LILA,Liberty Global Ltd.,Liberty Latin America Ltd.,2018
+"Nov 22, 2019",SCTL,BXRXQ,Societal Cdmo Inc,Baudax Bio Inc,2019
+"Oct 28, 2019",AHT,AINC,Ashford Hospitality Trust Inc,Ashford Inc,2019
+"Oct 2, 2019",NUAN,CRNC,Nuance Communications Inc,Cerence Inc,2019
+"Oct 1, 2019",ENSG,PNTG,Ensign Group Inc,Pennant Group Inc,2019
+"Sep 11, 2019",SATS,DISH,Echostar Corp,Dish Network Corp,2019
+"Jun 28, 2019",OPLN,IAA,Openlane Inc,Iaa Inc,2019
+"Jun 3, 2019",DD,CTVA,Dupont De Nemours Inc,Corteva Inc,2019
+"May 23, 2019",VFC,KTB,V F Corp,Kontoor Brands Inc,2019
+"Apr 9, 2019",NVS,ALC,Novartis Ag,Alcon Inc,2019
+"Apr 2, 2019",IRWD,CYCN,Ironwood Pharmaceuticals Inc,Cyclerion Therapeutics Inc,2019
+"Apr 2, 2019",DD,DOW,Dupont De Nemours Inc,Dow Inc,2019
+"Mar 28, 2019",CCEC,DSSI,Capital Clean Energy Carriers Corp,Diamond S Shipping Inc,2019
+"Mar 21, 2019",TFCFA,FOX,Twenty-first Century Fox Inc,Fox Corp,2019
+"Mar 21, 2019",TFCF,FOXA,Twenty-first Century Fox Inc,Fox Corp,2019
+"Mar 4, 2019",FMC,LTHM,Fmc Corp,Livent Corp,2019
+"Feb 26, 2019",GE,WAB,Ge Aerospace,Westinghouse Air Brake Technologies Corp,2019
+"Feb 8, 2019",HSIC,CVET,Henry Schein Inc,Covetrus Inc,2019
+"Jan 2, 2019",NTGR,ARLO,Netgear Inc,Arlo Technologies Inc,2019
+"Dec 29, 2020",GORO,FTCO,Gold Resource Corp,Fortitude Gold Corp,2020
+"Dec 15, 2020",AIV,AIRC,Apartment Investment & Management Co.,Apartment Income Reit Corp,2020
+"Dec 1, 2020",SNX,CNXC,Td Synnex Corp,Concentrix Corp,2020
+"Dec 1, 2020",PRG,AAN,Prog Holdings Inc,Aaron's Company Inc,2020
+"Nov 17, 2020",PFE,VTRS,Pfizer Inc,Viatris Inc,2020
+"Oct 9, 2020",FTV,VNT,Fortive Corp,Vontier Corp,2020
+"Oct 2, 2020",PDLI,LNSR,Pdl Biopharma Inc,Lensar Inc,2020
+"Oct 1, 2020",BVH,BBXIA,Bluegreen Vacations Holding Corp,Bbx Capital Inc,2020
+"Sep 15, 2020",QVCGB,QVCGP,Qvc Group Inc,Qvc Group Inc,2020
+"Sep 15, 2020",QVCGA,QVCGP,Qvc Group Inc,Qvc Group Inc,2020
+"Aug 27, 2020",SPWRQ,MAXN,Sunpower Corp,Maxeon Solar Technologies Ltd.,2020
+"Aug 25, 2020",SWBI,AOUT,Smith & Wesson Brands Inc,American Outdoor Brands Inc,2020
+"Aug 3, 2020",OXY,OXY.WS,Occidental Petroleum Corp,Occidental Petroleum Corp,2020
+"Jul 30, 2020",BEP,BEPC,Brookfield Renewable Partners Lp,Brookfield Renewable Corp,2020
+"Jul 1, 2020",MTCH,IAC,Match Group Inc,Iac Inc,2020
+"May 21, 2020",PDLI,EVFM,Pdl Biopharma Inc,Evofem Biosciences Inc,2020
+"Apr 20, 2020",MSGS,SPHR,Madison Square Garden Sports Corp,Sphere Entertainment Co.,2020
+"Apr 3, 2020",RTX,OTIS,Rtx Corp,Otis Worldwide Corp,2020
+"Apr 3, 2020",RTX,CARR,Rtx Corp,Carrier Global Corp,2020
+"Apr 1, 2020",HWM,ARNC,Howmet Aerospace Inc,Arconic Corp,2020
+"Apr 1, 2020",BIP,BIPC,Brookfield Infrastructure Partners Lp,Brookfield Infrastructure Corp,2020
+"Mar 2, 2020",TT,IR,Trane Technologies PLC,Ingersoll Rand Inc,2020
+"Jan 7, 2020",EMMS,MDIA,Emmis Communications Corp,Mediaco Holding Inc,2020
+"Jan 2, 2020",DHC,ALR,Diversified Healthcare Trust,Alerislife Inc,2020
+"Dec 30, 2021",VGR,DOUG,Vector Group Ltd.,Douglas Elliman Inc,2021
+"Dec 6, 2021",GASS,IMPPP,Stealthgas Inc,Imperial Petroleum Inc/marshall Islands,2021
+"Dec 6, 2021",GASS,IMPP,Stealthgas Inc,Imperial Petroleum Inc/marshall Islands,2021
+"Nov 30, 2021",DSX,SVRN,Diana Shipping Inc,Oceanpal Inc,2021
+"Nov 15, 2021",O,ONL,Realty Income Corp,Orion Properties Inc,2021
+"Nov 8, 2021",BFH,LYLTQ,Bread Financial Holdings Inc,Loyalty Ventures Inc,2021
+"Nov 5, 2021",BLUE,TSVT,Bluebird Bio Inc,2seventy Bio Inc,2021
+"Nov 4, 2021",IBM,KD,International Business Machines Corp,Kyndryl Holdings Inc,2021
+"Nov 2, 2021",DELL,VMW,Dell Technologies Inc,Vmware Inc,2021
+"Oct 22, 2021",BSBR,GET,Banco Santander (brasil) SA,Getnet Adquirencia E Servicos Para Meios De Pagamento Sa - Instituicao De Pagamento,2021
+"Oct 8, 2021",ZD,CCSI,Ziff Davis Inc,Consensus Cloud Solutions Inc,2021
+"Oct 5, 2021",ZWS,RRX,Zurn Elkay Water Solutions Corp,Regal Rexnord Corp,2021
+"Oct 4, 2021",ITUB,XP,Itau Unibanco Holding SA,Xp Inc,2021
+"Oct 1, 2021",IP,SLVM,International Paper Co.,Sylvamo Corp,2021
+"Sep 20, 2021",PUK,JXN,Prudential PLC,Jackson Financial Inc,2021
+"Aug 3, 2021",BBWI,VSCO,Bath & Body Works Inc,Victoria's Secret & Co.,2021
+"Aug 2, 2021",XPO,GXO,Xpo Inc,Gxo Logistics Inc,2021
+"Jul 20, 2021",SWI,NABL,Solarwinds Corp,N-able Inc,2021
+"Jul 9, 2021",TLSA,ACUT,Tiziana Life Sciences Ltd.,Accustem Sciences Inc,2021
+"Jul 1, 2021",DTE,DTM,Dte Energy Co.,Dt Midstream Inc,2021
+"Jun 11, 2021",CVI,DK,Cvr Energy Inc,Delek Us Holdings Inc,2021
+"Jun 3, 2021",MRK,OGN,Merck & Co Inc,Organon & Co.,2021
+"May 25, 2021",IAC,VMEO,Iac Inc,Vimeo Inc,2021
+"Mar 8, 2021",CBDBY,ASAIY,Brazilian Distribution Co Companhia Brasileira De Distr Cbd,Sendas Distributor SA,2021
+"Feb 16, 2021",FTI,THNPY,Technipfmc PLC,Technip Energies Nv,2021
+"Feb 2, 2021",VRNT,CGNT,Verint Systems Inc,Cognyte Software Ltd.,2021
+"Dec 15, 2022",BEAM2,MBC,Beam Inc,Masterbrand Inc,2022
+"Dec 12, 2022",BNT,BAM,Brookfield Wealth Solutions Ltd.,Brookfield Asset Management Ltd.,2022
+"Dec 12, 2022",BN,BAM,Brookfield Corp,Brookfield Asset Management Ltd.,2022
+"Nov 30, 2022",SAFE,SAFE2,Safehold Inc,Safehold Inc,2022
+"Nov 10, 2022",UHAL,UHAL.B,U-haul Holding Co.,U-haul Holding Co.,2022
+"Nov 1, 2022",XPO,RXO,Xpo Inc,Rxo Inc,2022
+"Oct 7, 2022",LGL,MPTI,Lgl Group Inc,M-tron Industries Inc,2022
+"Oct 6, 2022",BRG,BHM,Bluerock Residential Growth Reit Inc,Bluerock Homes Trust Inc,2022
+"Oct 4, 2022",BHVN1,BHVN,Biohaven Pharmaceutical Holding Co Ltd.,Biohaven Ltd.,2022
+"Oct 3, 2022",ADEA,XPER,Adeia Inc,Xperi Inc,2022
+"Aug 22, 2022",AMC,APE,Amc Entertainment Holdings Inc,Amc Entertainment Holdings Inc,2022
+"Aug 2, 2022",FTAI,FIP,Ftai Aviation Ltd.,Ftai Infrastructure Inc,2022
+"Jul 22, 2022",GSK,HLN,Gsk PLC,Haleon PLC,2022
+"Jul 1, 2022",EHC,EHAB,Encompass Health Corp,Enhabit Inc,2022
+"Jun 30, 2022",BBIG,ORBS,Vinco Ventures Inc,Eightco Holdings Inc,2022
+"Jun 8, 2022",AIFU,CNF,Aifu Inc,Cnfinance Holdings Ltd.,2022
+"Jun 2, 2022",BHP,WDS,Bhp Group Ltd.,Woodside Energy Group Ltd.,2022
+"Apr 11, 2022",T,WBD,At&t Inc,Warner Bros Discovery Inc,2022
+"Apr 5, 2022",ENOV,ESAB,Enovis Corp,Esab Corp,2022
+"Apr 1, 2022",BDX,EMBC,Becton Dickinson & Co.,Embecta Corp,2022
+"Mar 15, 2022",BBU,BBUC1,Brookfield Business Corp,Brookfield Business Holdings Corp,2022
+"Mar 11, 2022",POST,BRBR,Post Holdings Inc,Bellring Brands Inc,2022
+"Mar 1, 2022",ZBH,ZIMV,Zimmer Biomet Holdings Inc,Zimvie Inc,2022
+"Jan 3, 2022",CNH,IVCGF,Cnh Industrial Nv,Iveco Group,2022
+"Dec 1, 2023",WOR,WS,Worthington Enterprises Inc,Worthington Steel Inc,2023
+"Oct 17, 2023",VYX,NATL,Ncr Voyix Corp,Ncr Atleos Corp,2023
+"Oct 4, 2023",NVS,SDZNY,Novartis Ag,Sandoz Group Ag,2023
+"Oct 4, 2023",LAR,LAC,Lithium Argentina Ag,Lithium Americas Corp,2023
+"Oct 2, 2023",K,KLG,Kellanova,Wk Kellogg Co.,2023
+"Oct 2, 2023",DHR,VLTO,Danaher Corp,Veralto Corp,2023
+"Oct 2, 2023",ARMK,VSTS,Aramark,Vestis Corp,2023
+"Sep 28, 2023",OLOX,RENX,Olenox Industries Inc,Renx Enterprises Corp,2023
+"Sep 8, 2023",LVO,PODC,Liveone Inc,Podcastone Inc,2023
+"Aug 29, 2023",CBDBY,EXTOY,Brazilian Distribution Co Companhia Brasileira De Distr Cbd,Almacenes Exito SA,2023
+"Aug 4, 2023",LSXMK,LLYVK,Liberty Media Corp,Liberty Media Corp,2023
+"Aug 4, 2023",LSXMA,LLYVA,Liberty Media Corp,Liberty Media Corp,2023
+"Aug 4, 2023",FWONK,LLYVK,Liberty Media Corp,Liberty Media Corp,2023
+"Aug 4, 2023",FWONA,LLYVK,Liberty Media Corp,Liberty Media Corp,2023
+"Jul 19, 2023",FWONK,BATRK,Liberty Media Corp,Atlanta Braves Holdings Inc,2023
+"Jul 19, 2023",FWONA,BATRK,Liberty Media Corp,Atlanta Braves Holdings Inc,2023
+"Jul 5, 2023",BWA,PHIN,Borgwarner Inc,Phinia Inc,2023
+"Jul 3, 2023",LH,FTRE,Labcorp Holdings Inc,Fortrea Holdings Inc,2023
+"Jun 22, 2023",METC,METCB,Ramaco Resources Inc,Ramaco Resources Inc,2023
+"Jun 22, 2023",IMPP,CISS,Imperial Petroleum Inc/marshall Islands,C3is Inc,2023
+"Jun 1, 2023",MDU,KNF,Mdu Resources Group Inc,Knife River Corp,2023
+"May 24, 2023",WKEY,LAES,Wisekey International Holding SA,Sealsq Corp,2023
+"Apr 21, 2023",SPHR,MSGE,Sphere Entertainment Co.,Madison Square Garden Entertainment Corp,2023
+"Apr 4, 2023",CXT,CR,Crane Nxt Co.,Crane Co.,2023
+"Mar 31, 2023",SAFE,STHO,Safehold Inc,Star Holdings,2023
+"Mar 8, 2023",CTRM,TORO,Castor Maritime Inc,Toro Corp,2023
+"Jan 17, 2023",JEF,VTS,Jefferies Financial Group Inc,Vitesse Energy Inc,2023
+"Jan 16, 2023",ALKS,MURA,Alkermes PLC,Mural Oncology PLC,2023
+"Jan 4, 2023",GE,GEHC,Ge Aerospace,Ge Healthcare Technologies Inc,2023
+"Nov 26, 2024",SEM,CON,Select Medical Holdings Corp,Concentra Group Holdings Parent Inc,2024
+"Nov 13, 2024",LBTYB,SNREY,Liberty Global Ltd.,Sunrise Communications Ag,2024
+"Nov 13, 2024",LBTYA,SNREY,Liberty Global Ltd.,Sunrise Communications Ag,2024
+"Nov 5, 2024",BERY,MAGN,Berry Global Group Inc,Magnera Corp,2024
+"Nov 1, 2024",MDU,ECG,Mdu Resources Group Inc,Everus Construction Group Inc,2024
+"Oct 2, 2024",TRP,SOBO,Tc Energy Corp,South Bow Corp,2024
+"Oct 1, 2024",SITC,CURB,Site Centers Corp,Curbline Properties Corp,2024
+"Sep 30, 2024",J,AMTM,Jacobs Solutions Inc,Amentum Holdings Inc,2024
+"Sep 10, 2024",STRZA,SIRI,Starz,Sirius Xm Holdings Inc,2024
+"Aug 1, 2024",HHH,SEG,Howard Hughes Holdings Inc,Seaport Entertainment Group Inc,2024
+"Jul 10, 2024",AFCG,SUNS,Advanced Flower Capital Inc,Sunrise Realty Trust Inc,2024
+"Jun 25, 2024",ILMN,GRAL,Illumina Inc,Grail Inc,2024
+"May 30, 2024",INBX1,INBX,Inhibrx Inc,Inhibrx Biosciences Inc,2024
+"Apr 15, 2024",TORO,RBNE,Toro Corp,Robin Energy Ltd.,2024
+"Apr 2, 2024",GE,GEV,Ge Aerospace,Ge Vernova Inc,2024
+"Apr 1, 2024",MMM,SOLV,3m Co.,Solventum Corp,2024
+"Jan 3, 2024",FLEX,NXT,Flex Ltd.,Nextpower Inc,2024
+"Dec 8, 2025",UL,MICC,Unilever PLC,Magnum Ice Cream Co Nv,2025
+"Nov 26, 2025",LBRDA,GLIBR,Liberty Broadband Corp,Gci Liberty Inc,2025
+"Nov 26, 2025",GLIBK,GLIBR,Gci Liberty Inc,Gci Liberty Inc,2025
+"Nov 3, 2025",DD,Q,Dupont De Nemours Inc,Qnity Electronics Inc,2025
+"Oct 30, 2025",HON,SOLS,Honeywell International Inc,Solstice Advanced Materials Inc,2025
+"Jul 15, 2025",LBRDK,GLIBK,Liberty Broadband Corp,Gci Liberty Inc,2025
+"Jul 15, 2025",LBRDA,GLIBA,Liberty Broadband Corp,Gci Liberty Inc,2025
+"Jun 30, 2025",FTV,RAL,Fortive Corp,Ralliant Corp,2025
+"May 7, 2025",CMRE,CMDB,Costamare Inc,Costamare Bulkers Holdings Ltd.,2025
+"Apr 1, 2025",IAC,ANGI,Iac Inc,Angi Inc,2025
+"Mar 18, 2025",ESEA,EHLD,Euroseas Ltd.,Euroholdings Ltd.,2025
+"Feb 28, 2025",GPGI,RHLD,Gpgi Inc,Resolute Holdings Management Inc,2025
+"Feb 24, 2025",WDC,SNDK,Western Digital Corp,Sandisk Corp,2025
+"Feb 7, 2025",LEN,MRP,Lennar Corp,Millrose Properties Inc,2025
+"Jan 30, 2025",FATBQ,TWNPQ,Fat Brands Inc,Twin Hospitality Group Inc,2025
+"Jan 30, 2025",FATAQ,TWNPQ,Fat Brands Inc,Twin Hospitality Group Inc,2025
