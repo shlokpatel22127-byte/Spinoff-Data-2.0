@@ -1,58 +1,60 @@
 import pandas as pd
 import numpy as np
 
-def run_portfolio_analysis():
+def analyze_spinoff_research():
     print("=========================================================================")
-    print("🧮 SYSTEMATIC SPINOFF ARBITRAGE: PORTFOLIO BACKTEST ENGINE")
+    print("📈 EXCHANGES SPINOFF ANOMALY RESEARCH: THE 3-21 MONTH STRATEGY")
     print("=========================================================================\n")
     
-    # 1. Load the underlying data structures
+    # Load primary data structures
     try:
-        strategy_results = pd.read_csv('my_3_21_strategy_results.csv')
-        yearly_breakdown = pd.read_csv('my_3_21_yearly_breakdown.csv')
+        strategy_df = pd.read_csv('my_3_21_strategy_results.csv')
+        yearly_df = pd.read_csv('my_3_21_yearly_breakdown.csv')
+        cohort_df = pd.read_csv('my_pristine_cohort_results.csv')
+        inst_df = pd.read_csv('my_precision_institutional_results.csv')
+        master_df = pd.read_csv('spinoff_master_2015_2025.csv')
     except Exception as e:
-        print(f"❌ Initialization Error: Ensure the CSV files exist in the directory. Details: {e}")
+        print(f"❌ File Load Error: Ensure all 5 CSV data files match exact names. Details: {e}")
         return
 
-    # 2. Extract baseline parameters
-    raw_returns = strategy_results['Return_Percent'].values
-    total_trades = len(raw_returns)
+    # Process metrics
+    returns = strategy_df['Return_Percent'].values
+    total_trades = len(returns)
     
-    raw_mean = np.mean(raw_returns)
-    raw_std = np.std(raw_returns)
-    raw_sum = np.sum(raw_returns)
+    gains = strategy_df[strategy_df['Return_Percent'] > 0]['Return_Percent'].values
+    losses = strategy_df[strategy_df['Return_Percent'] <= 0]['Return_Percent'].values
     
-    # 3. Apply the Risk Mitigation Optimization (-25% Left-Tail Truncation)
-    # This simulates a programmatic stop-loss executing at the purchase boundary
-    shielded_returns = np.where(raw_returns < -25.0, -25.0, raw_returns)
+    win_rate = (len(gains) / total_trades) * 100
+    avg_return = np.mean(returns)
+    median_return = np.median(returns)
     
-    shielded_mean = np.mean(shielded_returns)
-    shielded_std = np.std(shielded_returns)
-    shielded_sum = np.sum(shielded_returns)
+    total_gains_pct = np.sum(gains)
+    total_losses_pct = np.sum(losses)
+    profit_factor = total_gains_pct / abs(total_losses_pct) if total_losses_pct != 0 else np.inf
+
+    # Print Dashboard
+    print(f"📊 DATA SELECTION & METRIC PROFILES:")
+    print(f"   ▫️ Total Corporate Spinoff Events Parsed:    {len(master_df)}")
+    print(f"   ▫️ Total Backtested Strategy Executions:    {total_trades}")
+    print(f"   ▫️ Strategy Success Frequency (Win Rate):   {win_rate:.2f}%")
+    print(f"   ▫️ Average Trade Outcome:                    {avg_return:.2f}%")
+    print(f"   ▫️ Median Trade Outcome:                     {median_return:.2f}%")
     
-    # 4. Generate Performance Matrix
-    print("📊 METRIC ANALYSIS PANEL:")
-    print(f"   ▫️ Total Spinoff Transactions Audited: {total_trades}")
-    print(f"   ▫️ Baseline Performance Sample Mean:   {raw_mean:.2f}%")
-    print(f"   ▫️ Baseline Performance Volatility:    {raw_std:.2f}%")
-    print(f"   ▫️ Optimized Performance Sample Mean:  {shielded_mean:.2f}%  📈 (+{(shielded_mean - raw_mean)*100:.0f} bps alpha expansion)")
-    print(f"   ▫️ Optimized Performance Volatility:   {shielded_std:.2f}%  📉 (Volatility Truncated)")
+    print("\n💰 PROFIT VS. LOSS RECONCILIATION:")
+    print(f"   ▫️ Cumulative Strategy Positive Gains:      +{total_gains_pct:.2f}%")
+    print(f"   ▫️ Cumulative Strategy Negative Losses:     {total_losses_pct:.2f}%")
+    print(f"   ▫️ Gross Return Profit Factor:               {profit_factor:.2f}x (Gains/Losses)")
     
-    print("\n📦 CUMULATIVE STRATEGY ARBITRAGE OUTPUT:")
-    print(f"   ▫️ Aggregate Unmanaged Absolute Return: {raw_sum:.2f}%")
-    print(f"   ▫️ Aggregate Risk-Managed Absolute Return: {shielded_sum:.2f}%")
+    print("\n🚀 PEAK OUTLIER MOMENTUM:")
+    top_win = strategy_df.sort_values(by='Return_Percent', ascending=False).iloc[0]
+    top_loss = strategy_df.sort_values(by='Return_Percent', ascending=True).iloc[0]
+    print(f"   ▫️ Maximum Asymmetric Gain:  +{top_win['Return_Percent']:.2f}% ({top_win['Ticker']})")
+    print(f"   ▫️ Maximum Downside Erosion: {top_loss['Return_Percent']:.2f}% ({top_loss['Ticker']})")
     
-    # 5. Extract Historical Outliers
-    print("\n🚀 RIGHT-TAIL ASYMMETRIC DRIVERS (TOP WINNERS):")
-    top_winners = strategy_results.sort_values(by='Return_Percent', ascending=False).head(3)
-    for idx, row in top_winners.iterrows():
-        print(f"   ▫️ Ticker: {row['Ticker']} | Spinoff Date: {row['Spinoff_Date']} | Absolute Return: +{row['Return_Percent']:.2f}%")
-        
-    print("\n🚨 UNMANAGED LEFT-TAIL VALUE DESTROYERS (TOP CRATERS):")
-    top_losers = strategy_results.sort_values(by='Return_Percent', ascending=True).head(3)
-    for idx, row in top_losers.iterrows():
-        print(f"   ▫️ Ticker: {row['Ticker']} | Spinoff Date: {row['Spinoff_Date']} | Absolute Return: {row['Return_Percent']:.2f}%")
+    print("\n🗓️ ANNUAL PERFORMANCE COHORTS:")
+    for _, row in yearly_df.iterrows():
+        print(f"   ▫️ Year {int(row['Calendar_Year'])} | Trades: {int(row['Total_Spinoffs_Traded'])} | Win Rate: {row['Win_Rate_Pct']:.1f}% | Avg Return: {row['Average_Return_Pct']:.2f}%")
     print("\n=========================================================================")
 
 if __name__ == "__main__":
-    run_portfolio_analysis()
+    analyze_spinoff_research()
