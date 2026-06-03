@@ -74,8 +74,8 @@ The sector mismatch screen successfully filtered out catastrophic downside event
 Beyond increasing the mathematical probability of a winning trade, the Pristine Cohort generated a higher average return per position by effectively removing heavy downside outliers from the portfolio.
 
 * Broad Market Baseline Average Return: +29.58%
-* Pristine Cohort Average Return: +38.89%
-* Annualized return using Pristine Cohort: +20.65%
-By systematically applying programmatic sector filters, the final framework successfully captured an extra +9.31% of absolute alpha expansion per trade compared to blindly purchasing every spinoff in the broad asset universe.
+* Pristine Cohort Average Return: +38.89% By systematically applying programmatic sector filters, the final framework successfully captured an extra +9.31% of absolute alpha expansion per trade compared to blindly purchasing every spinoff in the broad asset universe.
+* Annualized return using Pristine Cohort: +20.65% Furthermore, the annualized return effectively grew by 5%
+
 
 Though these numbers may seem great at first, average returns can decline. According to the Pristine Cohort you are merely buying 33 companies across 9 years. Once you take profits, your cash may stay stagnant for months, which ulitmately decreases the value of the cash itself. The profits should be set in a highly liquid asset that keeps up with inflation in order to be reinvested into the investment plan, or the profits can be reallocated to a different stock one that is either a dominant growth company such as ASML or a dividend king company that pays stable income to shareholders such as Parker Hannifin.
