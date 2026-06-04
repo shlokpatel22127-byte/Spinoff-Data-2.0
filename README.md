@@ -73,7 +73,7 @@ The sector mismatch screen successfully filtered out catastrophic downside event
 ### 2. Return Comparison Summary
 Beyond increasing the mathematical probability of a winning trade, the Pristine Cohort generated a higher average return per position by effectively removing heavy downside outliers from the portfolio.
 
-* Broad Market Baseline Average Return: +29.58%
+* All 3-21 Strategy Stocks Baseline Average Return: +29.58%
 * Pristine Cohort Average Return: +38.89% By systematically applying programmatic sector filters, the final framework successfully captured an extra +9.31% of absolute alpha expansion per trade compared to blindly purchasing every spinoff in the broad asset universe.
 * Annualized return using Pristine Cohort: +20.65% Furthermore, the annualized return effectively grew by 5%
 
