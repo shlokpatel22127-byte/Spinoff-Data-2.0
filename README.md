@@ -76,6 +76,7 @@ Beyond increasing the mathematical probability of a winning trade, the Pristine 
 * All 3-21 Strategy Stocks Baseline Average Return: +29.58%
 * Pristine Cohort Average Return: +38.89% By systematically applying programmatic sector filters, the final framework successfully captured an extra +9.31% of absolute alpha expansion per trade compared to blindly purchasing every spinoff in the broad asset universe.
 * Annualized return using Pristine Cohort: +20.65% Furthermore, the annualized return effectively grew by 5%
+* The S&P 500's avg annualized return has been 10%. However, that would be misleading because that number is the result of a very long time frame in which it has given returns. From 2015 to 2024 the avg annualized return of the S&P 500 was roughly 11%-13% which I was able to obtain from spglogbal.com.  What this tells us is that the Spinoff strategy yielded a a higher annualized return than the S&P 500 over the same time frame.
 
 
 Though these numbers may seem great at first, average returns can decline. According to the Pristine Cohort you are merely buying 33 companies across 9 years. Once you take profits, your cash may stay stagnant for months, which ultimately decreases the value of the cash itself. The profits should be set in a highly liquid asset that keeps up with inflation in order to be reinvested into the investment plan, or the profits can be reallocated to a different stock one that is either a dominant growth company such as ASML or a dividend king company that pays stable income to shareholders such as Parker Hannifin.
