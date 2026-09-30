@@ -21,7 +21,7 @@ Empirical Backtest Findings:
 Analyzing the 171 backtested transactions from 2015 through 2024 reveals a distinct right-tail performance asymmetry, showing that a time-delayed holding strategy captures significant growth but remains exposed to downside risks.
 
 Cumulative Profit vs. Loss Performance:
-  The strategy successfully demonstrates that absolute profits significantly outpace absolute losses across the observed historical universe:
+  Across the observed historical universe, the strategy generated significantly more cumulative positive returns than cumulative negative returns:
   - Total Completed Strategy Trades: 171
   - Strategy Win Rate: 55.56%
   - Average Return per Trade: +29.58%
@@ -32,7 +32,7 @@ Cumulative Profit vs. Loss Performance:
   - Gross Return Profit Factor: 2.62x  *The gross return profit factor is the ratio of the total sum of all positive gains divided by the absolute value of the total sum of all negative losses within a trading strategy.
 
 Outliers:
-  The strategy's return profile is heavily characterized by extreme positive asymmetric outliers, though it remains vulnerable to complete capital impairments when weak corporate divisions are loaded with debt:
+  The strategy's return profile is heavily influenced by extreme positive outliers, while also remaining exposed to substantial losses from weaker corporate divisions:
   - Peak Positive Asymmetric Winner: INBX (Inhibrx Biosciences Inc.) ---> +611.25%
   - Peak Negative Asymmetric Loser: SVRN (Severn Bancorp) ---> -99.73%
 
@@ -74,9 +74,16 @@ The sector mismatch screen successfully filtered out catastrophic downside event
 Beyond increasing the mathematical probability of a winning trade, the Pristine Cohort generated a higher average return per position by effectively removing heavy downside outliers from the portfolio.
 
 * All 3-21 Strategy Stocks Baseline Average Return: +29.58%
-* Pristine Cohort Average Return: +38.89% By systematically applying programmatic sector filters, the final framework successfully captured an extra +9.31% of absolute alpha expansion per trade compared to blindly purchasing every spinoff in the broad asset universe.
+* Pristine Cohort Average Return: +38.89% by systematically applying programmatic sector filters, the final framework produced an additional +9.31 percentage points in average return per trade compared with the baseline strategy.
 * Annualized return using Pristine Cohort: +20.65% Furthermore, the annualized return effectively grew by 5%
-* The S&P 500's avg annualized return has been 10%. However, that would be misleading because that number is the result of a very long time frame in which it has given returns. From 2015 to 2024 the avg annualized return of the S&P 500 was roughly 11%-13% which I was able to obtain from spglogbal.com.  What this tells us is that the Spinoff strategy yielded a a higher annualized return than the S&P 500 over the same time frame.
+* The S&P 500's avg annualized return has been 10%. However, that would be misleading because that number is the result of a very long time frame in which it has given returns. From 2015 to 2024 the avg annualized return of the S&P 500 was roughly 11%-13% which I was able to obtain from spglogbal.com.
+
+### Issue
+* ### Benchmarking Limitation
+
+One important limitation of this analysis is the difficulty of establishing a precise S&P 500 benchmark for each individual trade. While the return figures reported in this project are accurate, I currently do not have sufficiently detailed and credible data to match every trade, or each month's portfolio activity, against the S&P 500 over the exact same holding period.
+The annualized S&P 500 comparison included above provides a general reference point for evaluating the strategy's performance, but it does not fully account for the timing of individual trades. This is particularly challenging because the strategy involves holding spinoff positions for approximately two years, while new spinoffs can occur throughout that holding period. Attempting to construct a portfolio that continuously enters every eligible spinoff would therefore create overlapping holding periods and make a simple benchmark comparison difficult.
+I consider this a limitation of the current analysis rather than a reason to disregard the comparison. I plan to improve the methodology by developing a consistent way to benchmark each trade against the S&P 500 over the exact same period. In the meantime, the strategy can be evaluated through the individual returns of researched spinoffs alongside broader annualized market performance. The use of more selective, thoroughly researched spinoff investments may also make the portfolio easier to track and evaluate than attempting to purchase every qualifying spinoff.
 
 
 Though these numbers may seem great at first, average returns can decline. According to the Pristine Cohort you are merely buying 33 companies across 9 years. Once you take profits, your cash may stay stagnant for months, which ultimately decreases the value of the cash itself. The profits should be set in a highly liquid asset that keeps up with inflation in order to be reinvested into the investment plan, or the profits can be reallocated to a different stock one that is either a dominant growth company such as ASML or a dividend king company that pays stable income to shareholders such as Parker Hannifin.
